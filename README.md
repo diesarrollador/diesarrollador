@@ -6,9 +6,9 @@
 <br />
 
 ### Actualmente estoy aprendiendo:
-<img align="left" alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"/>
-<img align="left" alt="Docker" width="30px" src="https://i0.wp.com/www.docker.com/blog/wp-content/uploads/2013/11/homepage-docker-logo.png?fit=400%2C331&ssl=1"/>
 <img align="left" alt="Python" width="30px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-icono-del-lenguaje-de-programaci-oacute-n-python-by-vexels.png"/>
+<img align="left" alt="Docker" width="30px" src="https://i0.wp.com/www.docker.com/blog/wp-content/uploads/2013/11/homepage-docker-logo.png?fit=400%2C331&ssl=1"/>
+<img align="left" alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"/>
 
 <br />
 
