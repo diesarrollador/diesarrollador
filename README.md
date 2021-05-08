@@ -1,4 +1,6 @@
-### Ciao, soy Diego Gómez! 👨🏻‍💻
+<h1 align="center"> Ciao, soy Diego! 👨🏻‍💻</h1>
+<h3 align="center">Un panameño, amante del desarrollo de software</h3>
+
 
 - 👋 Hola, @user
 - 📌 Estoy buscando colaborar en el desarrollo de sistemas 
