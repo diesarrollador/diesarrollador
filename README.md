@@ -2,8 +2,6 @@
 
 - 👋 Hola, @user
 - 📌 Estoy buscando colaborar en el desarrollo de sistemas 
-<img src="https://github-readme-stats.vercel.app/api?username=Diesarrollador&&show_icons=true&title_color=5f27cd&icon_color=bb2acf&text_color=54a0ff&bg_color=151515">
-<br />
 
 ### Actualmente estoy aprendiendo:
 <img align="left" alt="Python" width="30px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-icono-del-lenguaje-de-programaci-oacute-n-python-by-vexels.png"/>
@@ -24,3 +22,8 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"/>
 <img align="left" alt="Python" width="30px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-icono-del-lenguaje-de-programaci-oacute-n-python-by-vexels.png"/>
 <img align="left" alt="Figma" width="30px" src="https://cdn-images-1.medium.com/max/1200/1*DG5eBssbHsAyh_RtTRz8mQ@2x.png"/>
+
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=Diesarrollador&&show_icons=true&title_color=5f27cd&icon_color=bb2acf&text_color=54a0ff&bg_color=151515">
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diesarrollador&show_icons=true&locale=en&layout=compact" alt="Diesarrollador" /></p>
