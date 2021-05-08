@@ -24,6 +24,7 @@
 <img align="left" alt="Figma" width="30px" src="https://cdn-images-1.medium.com/max/1200/1*DG5eBssbHsAyh_RtTRz8mQ@2x.png"/>
 
 <br />
+<br />
 <img src="https://github-readme-stats.vercel.app/api?username=Diesarrollador&&show_icons=true&title_color=5f27cd&icon_color=bb2acf&text_color=54a0ff&bg_color=151515">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=diesarrollador&show_icons=true&locale=en&layout=compact" alt="Diesarrollador" /></p>
