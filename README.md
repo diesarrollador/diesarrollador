@@ -24,7 +24,7 @@
 <img align="left" alt="Git" width="30px" src="https://www.innerzaurus.com/wp-content/uploads/2020/08/Logo-de-Git.png"/>
 <img align="left" alt="Python" width="30px" src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-icono-del-lenguaje-de-programaci-oacute-n-python-by-vexels.png"/>
 <img align="left" alt="Figma" width="30px" src="https://cdn-images-1.medium.com/max/1200/1*DG5eBssbHsAyh_RtTRz8mQ@2x.png"/>
-<img align="left" alt="Bootstrap" width="30px" src="https://i.stack.imgur.com/dMXbE.png"/>
+<img align="left" alt="Bootstrap" width="30px" src="https://download.logo.wine/logo/Bootstrap_(front-end_framework)/Bootstrap_(front-end_framework)-Logo.wine.png"/>
 <img align="left" alt="Illustrator" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png"/>
 <img align="left" alt="Photoshop" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png"/>
 
