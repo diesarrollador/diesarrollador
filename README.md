@@ -1,5 +1,5 @@
 <h1 align="center"> Ciao, soy Diego! 👨🏻‍💻</h1>
-<h3 align="center">Un panameño, amante del desarrollo de software</h3>
+<h3 align="center">Un panameño, divorciado de redes informáticas y casado con el desarrollo de software</h3>
 
 
 - 👋 Hola, @user
